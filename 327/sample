@@ -1,4 +1,7 @@
-xxxxxxxxx
-
-awdada
-iasdasdas
+1.  Fix macro playing back crash issue on new added "find previous" and "find next" buttons.
+2.  Function List enhancement: Highlight the current function based on cursor position.
+3.  Fix crash on styler dialog of User Defined Language dialog.
+4.  Fix file status detection issue under Windows XP.
+5.  Ghost typing enhancement: Unicode, syntax highlighting and speed support.
+    (check the url for the usage of ghost typing on command line: https://notepad-plus-plus.org/features/ghost-typing.html )
+6.  Add a message from outer space.
